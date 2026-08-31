@@ -150,17 +150,17 @@ My current interests include:
 
 ## 📈 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MdAarif360&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Aarif Mohamed GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAarif360&layout=compact&theme=github_dark&hide_border=true" alt="Aarif Mohamed Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAarif360&theme=github-dark-blue&hide_border=true" alt="Aarif Mohamed GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAarif360&theme=github-compact&hide_border=true" alt="Aarif Mohamed Contribution Graph" />
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAarif360&theme=github-compact&hide_border=true" alt="Aarif Mohamed Contribution Graph" /> -->
 </p>
 
 > GitHub represents only part of my technical work. Much of my enterprise delivery experience involves proprietary customer environments and production systems that cannot be published publicly.
@@ -189,6 +189,9 @@ I am interested in **freelance, consulting and solution-architecture opportuniti
   </a>
   <a href="mailto:mdarif16521@gmail.com">
     <img src="https://img.shields.io/badge/Email-mdarif16521%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-aarif-m-csm%C2%AE-itil%C2%AE-v3-6321212a/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
   </a>
 </p>
 
