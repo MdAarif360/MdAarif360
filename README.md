@@ -190,7 +190,7 @@ I am interested in **freelance, consulting and solution-architecture opportuniti
   <a href="mailto:mdarif16521@gmail.com">
     <img src="https://img.shields.io/badge/Email-mdarif16521%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-aarif-m-csm%C2%AE-itil%C2%AE-v3-6321212a/">
+  <a href="www.linkedin.com/in/mohamed-aarif-6321212a">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
   </a>
 </p>
