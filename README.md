@@ -2,18 +2,18 @@
 
 ### Enterprise Applications \| HxGN / Infor EAM \| AI Automation \| Data & Integration
 
-```{=html}
+{=html}
 <p align="center">
-```
-`<a href="#-about-me">`{=html}About Me`</a>`{=html} •
+
+<a href="#-about-me">`{=html}About Me`</a>`{=html} •
 `<a href="#-core-expertise">`{=html}Expertise`</a>`{=html} •
 `<a href="#-featured-solution-projects">`{=html}Projects`</a>`{=html} •
 `<a href="#-tech-stack">`{=html}Tech Stack`</a>`{=html} •
 `<a href="#-github-analytics">`{=html}GitHub Analytics`</a>`{=html} •
 `<a href="#-connect-with-me">`{=html}Contact`</a>`{=html}
-```{=html}
+{=html}
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
