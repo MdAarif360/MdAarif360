@@ -6,11 +6,11 @@
 <p align="center">
 
 <a href="#-about-me">`{=html}About Me`</a>`{=html} •
-`<a href="#-core-expertise">`{=html}Expertise`</a>`{=html} •
-`<a href="#-featured-solution-projects">`{=html}Projects`</a>`{=html} •
-`<a href="#-tech-stack">`{=html}Tech Stack`</a>`{=html} •
-`<a href="#-github-analytics">`{=html}GitHub Analytics`</a>`{=html} •
-`<a href="#-connect-with-me">`{=html}Contact`</a>`{=html}
+<a href="#-core-expertise">`{=html}Expertise`</a>`{=html} •
+<a href="#-featured-solution-projects">`{=html}Projects`</a>`{=html} •
+<a href="#-tech-stack">`{=html}Tech Stack`</a>`{=html} •
+<a href="#-github-analytics">`{=html}GitHub Analytics`</a>`{=html} •
+<a href="#-connect-with-me">`{=html}Contact`</a>`{=html}
 {=html}
 </p>
 
@@ -195,28 +195,28 @@ Deploy → Improve**
 
 ## 📈 GitHub Analytics
 
-```{=html}
+{=html}
 <p align="center">
-```
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=MdAarif360&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Aarif Mohamed GitHub Stats" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAarif360&layout=compact&theme=github_dark&hide_border=true" alt="Aarif Mohamed Top Languages" />`{=html}
-```{=html}
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MdAarif360&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Aarif Mohamed GitHub Stats" />{=html}
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAarif360&layout=compact&theme=github_dark&hide_border=true" alt="Aarif Mohamed Top Languages" />{=html}
+{=html}
 </p>
-```
-```{=html}
+
+{=html}
 <p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAarif360&theme=github-dark-blue&hide_border=true" alt="Aarif Mohamed GitHub Streak" />`{=html}
-```{=html}
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAarif360&theme=github-dark-blue&hide_border=true" alt="Aarif Mohamed GitHub Streak" />{=html}
+{=html}
 </p>
-```
-```{=html}
+
+{=html}
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAarif360&theme=github-compact&hide_border=true" alt="Aarif Mohamed Contribution Graph" />`{=html}
-```{=html}
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAarif360&theme=github-compact&hide_border=true" alt="Aarif Mohamed Contribution Graph" />{=html}
+{=html}
 </p>
-```
+
 > GitHub represents only part of my technical work. Much of my
 > enterprise delivery experience involves proprietary customer
 > environments and production systems that cannot be published publicly.
@@ -240,32 +240,31 @@ opportunities** involving:
 
 ## 📫 Connect With Me
 
-```{=html}
+{=html}
 <p align="left">
-```
-`<a href="https://github.com/MdAarif360">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-MdAarif360-181717?style=for-the-badge&logo=github" alt="GitHub" />`{=html}
-`</a>`{=html} `<a href="mailto:mdarif16521@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-mdarif16521%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />`{=html}
-`</a>`{=html}
-```{=html}
+
+<a href="https://github.com/MdAarif360">{=html}
+<img src="https://img.shields.io/badge/GitHub-MdAarif360-181717?style=for-the-badge&logo=github" alt="GitHub" />{=html}
+</a>{=html} <a href="mailto:mdarif16521@gmail.com">{=html}
+<img src="https://img.shields.io/badge/Email-mdarif16521%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />{=html}
+</a>{=html}
+{=html}
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
-```{=html}
+{=html}
 <h3 align="center">
-```
+
 Enterprise Systems × Data × Automation × AI
-```{=html}
+{=html}
 </h3>
-```
-```{=html}
+
+{=html}
 <p align="center">
-```
-`<i>`{=html}Building practical bridges between business operations and
-modern technology.`</i>`{=html}
-```{=html}
+
+<i>{=html}Building practical bridges between business operations and
+modern technology.</i>{=html}
+{=html}
 </p>
-```
